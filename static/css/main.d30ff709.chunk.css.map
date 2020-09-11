@@ -1,0 +1,1 @@
+{"version":3,"sources":["TodoList.css","Todo.css"],"names":[],"mappings":"AAAA,GACE,cACF,CCFA,GACE,oBAAqB,CACrB,+BACF,CAEA,SACE,sBAAuB,CACvB,cACF","file":"main.d30ff709.chunk.css","sourcesContent":["ul {\n  padding-left: 0;\n}\n","li {\n  list-style-type: none;\n  transition: background-color 200ms;\n}\n\nli:hover {\n  background-color: coral;\n  cursor: pointer;\n}\n"]}
